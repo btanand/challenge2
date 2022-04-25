@@ -12,10 +12,9 @@ This repository contains 2 files:
 1. get_metadata.sh -> Contains code to fetch full instance metadata in instancemetadata.json file dynamically.
 2. metadayaquery.py -> Contains code to fetch specific data keys from the instancemetadata.json invoked by get_metadata.sh
 
-## Getting started
-
-Step 1) Login into the compute engine
-Step 2) Clone this repository
-Step 3) cd challenge2
-Step 4) ./get_metadata.sh and enter the values prompted for.
+## Steps
+1. Login into the compute engine
+2. Clone this repository
+3. cd challenge2
+4. ./get_metadata.sh and enter the values prompted for.
 
